@@ -1,9 +1,20 @@
 import React from 'react';
 
+import { Container } from './styles';
+
 const LandingPage: React.FC = () => {
   return (
     <>
-      <h1>LandingPage works</h1>
+      <Container>
+        <h1>Eder Chiquito</h1>
+        <p>
+          Computer engineer. Dev at Rücker Curi law office. Brazilian.Computer
+          engineer. Dev at Rücker Curi law office. Brazilian.Computer engineer.
+          Dev at Rücker Curi law office. Brazilian.Computer engineer. Dev at
+          Rücker Curi law office. Brazilian.Computer engineer. Dev at Rücker
+          Curi law office. Brazilian.
+        </p>
+      </Container>
     </>
   );
 };
