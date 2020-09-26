@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.js": "/static/js/main.327108e6.chunk.js",
-    "main.js.map": "/static/js/main.327108e6.chunk.js.map",
+    "main.js": "/static/js/main.56374483.chunk.js",
+    "main.js.map": "/static/js/main.56374483.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.64265378.js",
     "runtime-main.js.map": "/static/js/runtime-main.64265378.js.map",
-    "static/js/2.d67ed0cd.chunk.js": "/static/js/2.d67ed0cd.chunk.js",
-    "static/js/2.d67ed0cd.chunk.js.map": "/static/js/2.d67ed0cd.chunk.js.map",
+    "static/js/2.6516ec17.chunk.js": "/static/js/2.6516ec17.chunk.js",
+    "static/js/2.6516ec17.chunk.js.map": "/static/js/2.6516ec17.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9c1467a3dec12990715f8137f3040fb3.js": "/precache-manifest.9c1467a3dec12990715f8137f3040fb3.js",
+    "precache-manifest.4220e7fe532b42b0c5161e80891213d9.js": "/precache-manifest.4220e7fe532b42b0c5161e80891213d9.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.d67ed0cd.chunk.js.LICENSE.txt": "/static/js/2.d67ed0cd.chunk.js.LICENSE.txt"
+    "static/js/2.6516ec17.chunk.js.LICENSE.txt": "/static/js/2.6516ec17.chunk.js.LICENSE.txt",
+    "static/media/GoFinances.svg": "/static/media/GoFinances.ce269cac.svg",
+    "static/media/emailWhite.png": "/static/media/emailWhite.9291ebcd.png",
+    "static/media/githubExplorer.svg": "/static/media/githubExplorer.04f6798f.svg",
+    "static/media/githubIconWhite.png": "/static/media/githubIconWhite.2c4b629e.png",
+    "static/media/gobarberLogon.svg": "/static/media/gobarberLogon.a49b07ec.svg",
+    "static/media/linkedinWhite.png": "/static/media/linkedinWhite.16feb175.png"
   },
   "entrypoints": [
     "static/js/runtime-main.64265378.js",
-    "static/js/2.d67ed0cd.chunk.js",
-    "static/js/main.327108e6.chunk.js"
+    "static/js/2.6516ec17.chunk.js",
+    "static/js/main.56374483.chunk.js"
   ]
 }
