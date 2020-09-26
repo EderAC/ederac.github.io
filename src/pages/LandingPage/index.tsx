@@ -1,5 +1,6 @@
 import React from 'react';
 import { FiChevronRight } from 'react-icons/fi';
+import { BiLinkExternal } from 'react-icons/bi';
 import { FaReact, FaNodeJs, FaPython } from 'react-icons/fa';
 import { SiTypescript } from 'react-icons/si';
 import { Container, Content, Header, Footer, Projects } from './styles';
@@ -21,8 +22,11 @@ const LandingPage: React.FC = () => {
             <p>Bachelor of Computer Engineering at Universidade Positivo.</p>
             <p>
               Currently working at{' '}
-              <a href="https://curi.adv.br/"> Rücker Curi Law Office</a> as full
-              stack developer.{' '}
+              <a href="https://curi.adv.br/">
+                {' '}
+                Rücker Curi Law Office <BiLinkExternal />
+              </a>{' '}
+              as full stack developer.{' '}
             </p>
             <h2>Technologies</h2>
             <ul>

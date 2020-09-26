@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.a078c5a0.chunk.js",
-    "main.js.map": "/static/js/main.a078c5a0.chunk.js.map",
+    "main.js": "/static/js/main.e650944e.chunk.js",
+    "main.js.map": "/static/js/main.e650944e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.64265378.js",
     "runtime-main.js.map": "/static/js/runtime-main.64265378.js.map",
-    "static/js/2.6516ec17.chunk.js": "/static/js/2.6516ec17.chunk.js",
-    "static/js/2.6516ec17.chunk.js.map": "/static/js/2.6516ec17.chunk.js.map",
+    "static/js/2.564624f3.chunk.js": "/static/js/2.564624f3.chunk.js",
+    "static/js/2.564624f3.chunk.js.map": "/static/js/2.564624f3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d92f93b31c759efb53ad8bf12ab4eab1.js": "/precache-manifest.d92f93b31c759efb53ad8bf12ab4eab1.js",
+    "precache-manifest.d7040a3e97bff3fa6be89087841cca64.js": "/precache-manifest.d7040a3e97bff3fa6be89087841cca64.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.6516ec17.chunk.js.LICENSE.txt": "/static/js/2.6516ec17.chunk.js.LICENSE.txt",
+    "static/js/2.564624f3.chunk.js.LICENSE.txt": "/static/js/2.564624f3.chunk.js.LICENSE.txt",
     "static/media/GoFinances.svg": "/static/media/GoFinances.ce269cac.svg",
     "static/media/emailWhite.png": "/static/media/emailWhite.9291ebcd.png",
     "static/media/githubExplorer.svg": "/static/media/githubExplorer.04f6798f.svg",
@@ -19,7 +19,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.64265378.js",
-    "static/js/2.6516ec17.chunk.js",
-    "static/js/main.a078c5a0.chunk.js"
+    "static/js/2.564624f3.chunk.js",
+    "static/js/main.e650944e.chunk.js"
   ]
 }

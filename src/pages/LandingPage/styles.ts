@@ -37,7 +37,7 @@ export const Header = styled.div`
 
     a {
       text-decoration: none;
-      color: #5927e5;
+      color: #6c6c6c;
     }
   }
 
